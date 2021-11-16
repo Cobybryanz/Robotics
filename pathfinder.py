@@ -79,3 +79,12 @@ while not final(puz1, join):
     for b in ["Left ", "Right ", "Up ", "Down "]:
         put = join + b
         if vld(puz1, put): part.put(put)
+
+
+#Why did you choose this particular algorithm?
+#ans: i choose this algorithm to get the shortest way of it, and i get to learn the Dijkstra’s Shortest Path algo of it
+
+#What have you observed?
+#ans: i observe that if we learn such a thing of this the dijkstra's shortest path it would be a lot of help, specially like global area/mapping then we use a calculation like Dijkstra’s Shortest Path
+#and if we plan to make an AI we can use Dijkstra Shortest path of it, like something u want that AI to go a specific location, and can adjust the movements of AI on any obstacle it sees by using dijkstra's shortest path
+
